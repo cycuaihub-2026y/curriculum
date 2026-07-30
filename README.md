@@ -1,0 +1,2 @@
+# curriculum
+青年AI實戰養成班
